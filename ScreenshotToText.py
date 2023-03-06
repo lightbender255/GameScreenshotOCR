@@ -3,7 +3,7 @@ import pytesseract
 import tempfile
 import os
 
-imageFilePath = "F:\\Games2\\Steam\\userdata\\69635695\\760\\remote\\346110\\screenshots\\20230305235438_1.jpg"
+imageFilePath = "F:\\Games2\\Steam\\userdata\\69635695\\760\\remote\\346110\\screenshots\\20230202235718_1.jpg"
 imageFileNameWithExtenstion = os.path.basename(imageFilePath)
 imageFileName = os.path.splitext(imageFileNameWithExtenstion)[0]
 
